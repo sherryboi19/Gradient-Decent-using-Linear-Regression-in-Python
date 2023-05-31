@@ -1,0 +1,22 @@
+Exercise1
+
+Predict Canada’s per capita income in year 2020.
+There is a canada_per_capita_income.csv file. Use this file data and build a regression
+model that predict the per capita income for Canadian citizens in year 2020.
+Exercise2
+
+hiring.csv file contains hiring statics for a firm such as experience of candidate, his
+written test score and personal interview score. Based on these 3 factors, HR will
+decide the salary. Given this data, you need to build a machine learning model for HR
+department that can help them decide salaries for future candidates. Using this predict
+salaries for following candidates,
+2 year experience, 9 test score, 6 interview score
+12 year experience, 10 test score, 10 interview score
+
+Exercise3
+
+Consider an attached file in which cars price prediction data is available. Total dataset
+consists of 205 records. Divide this dataset into two parts training and testing data.
+Consider first 155 examples as training data and train a linear regression model, then
+test your model on testing data last 50 examples and check your results how close your
+answers.
